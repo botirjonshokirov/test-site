@@ -1,0 +1,13 @@
+body {
+  background-color: blanchedalmond;
+  margin: auto;
+  padding: auto;
+}
+
+.big-text {
+  color: yellow;
+}
+
+.small-text {
+  color: red;
+}
